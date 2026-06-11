@@ -26,7 +26,7 @@
 <a href="https://twitter.com/mahaveer2029557" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mahaveer2029557" height="30" width="40" /></a>
 <a href="https://leetcode.com/mahaveergautam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mahaveergautam" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/mahaveerrd0b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mahaveerrd0b" height="30" width="40" /></a>
-<a href="https://discord.gg/mahaveergautam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mahaveergautam" height="30" width="40" /></a>
+<a href="https://discord.gg/V2JtnMkQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mahaveergautam" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
