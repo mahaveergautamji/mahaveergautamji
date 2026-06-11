@@ -1,7 +1,7 @@
 [README.md](https://github.com/user-attachments/files/28822374/README.md)
 # Hi 👋, I'm mahaveergautamji
 
-### A seasoned Html developer
+### A seasoned Web developer
 
 <p align="left"> <a href="https://twitter.com/mahaveer2029557" target="blank"><img src="https://img.shields.io/twitter/follow/mahaveer2029557?logo=twitter&style=for-the-badge" alt="mahaveer2029557" /></a> </p>
 
